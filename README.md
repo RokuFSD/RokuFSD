@@ -1,4 +1,4 @@
-<img src="./banner.jpeg" />
+<img src="./banner.jpg" />
 
 # 👋 Who I am?
 
