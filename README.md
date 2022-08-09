@@ -3,7 +3,7 @@
 # Who I am?
 
 <div align="justify">
-    My name is Emiliano and I'm a Front End Developer who
+    My name is Emiliano and I'm a Developer who
     loves the JavaScript technologies. Right now I'm focused on learning
     everything that is related to Web Development. I'm also passionate about exploring new technologies.
 </div>
